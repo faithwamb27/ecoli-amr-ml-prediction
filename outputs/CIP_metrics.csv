@@ -1,0 +1,2 @@
+drug,drug_name,n_test,roc_auc,accuracy
+CIP,ciprofloxacin,309,0.8377881558028617,0.8770226537216829
